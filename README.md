@@ -13,7 +13,7 @@ This repository contains the code and data for an example application of the Seq
 
 ## Secondary data
 <p align="center">
-    <img src=" sec.png" alt="Figure 2" width="500"/>
+    <img src="sec.png" alt="Figure 2" width="500"/>
 </p>
 
 **Figure 2:** Acoustic impedance.
@@ -29,7 +29,7 @@ This repository contains the code and data for an example application of the Seq
 ## Facies proportion maps
 
 <p align="center">
-    <img src=" proportion_facies.png" alt="Figure 4" width="500"/>
+    <img src="proportion_facies.png" alt="Figure 4" width="1000"/>
 </p>
 
 **Figure 4:** Facies proportion for each facies.
