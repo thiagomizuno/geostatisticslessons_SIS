@@ -34,6 +34,21 @@ This repository contains the code and data for an example application of the Seq
 
 **Figure 4:** Facies proportion for each facies.
 
+## Facies model
+
+<p align="center">
+    <img src="Facies_model_dif_methods.png" alt="Figure 5" width="1000"/>
+</p>
+
+**Figure 5:** Example of a realization from each method.
+
+## Entropy maps
+
+<p align="center">
+    <img src="Entropy_dif_methods.png" alt="Figure 6" width="1000"/>
+</p>
+
+**Figure 6:** Entropy maps using the facies proportion for each method.
 
 ## Contact
 
