@@ -24,4 +24,4 @@ For any questions or suggestions, please reach out to Thiago A Mizuno at [thiago
 
 ## References
 
-[1] Mokdad, K., Binakaj, D., & Boisvert, J. (2022). Data validation project: Validation of 114 spatial 2D datasets (non-synthetic data). *CCG Paper 110*, Centre for Computational Geostatistics, University of Alberta, Canada, 24.
+[1] Mizuno, T., & Deutsch, C. (2022). Sequential Indicator Simulation (SIS). In J.L. Deutsch (Ed.), Geostatistics Lessons. Retrieved from http://www.geostatisticslessons.com/lessons/sequentialindicatorsim
