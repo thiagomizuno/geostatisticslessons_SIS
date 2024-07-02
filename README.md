@@ -40,7 +40,7 @@ This repository contains the code and data for an example application of the Seq
     <img src="Facies_model_dif_methods.png" alt="Figure 5" width="1000"/>
 </p>
 
-**Figure 5:** Example of a realization from each method.
+**Figure 5:** Example of a realization from each method (Simple Kriging, Ordinary Kriging, and Locally Varying Mean).
 
 ## Entropy maps
 
@@ -48,7 +48,7 @@ This repository contains the code and data for an example application of the Seq
     <img src="Entropy_dif_methods.png" alt="Figure 6" width="1000"/>
 </p>
 
-**Figure 6:** Entropy maps using the facies proportion for each method.
+**Figure 6:** Entropy maps using the facies proportion for each method (Simple Kriging, Ordinary Kriging, and Locally Varying Mean).
 
 ## Contact
 
