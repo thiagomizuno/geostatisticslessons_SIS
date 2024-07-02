@@ -10,13 +10,30 @@ This repository contains the code and data for an example application of the Seq
 
 **Figure 1:** Location map with the sampled points.
 
+
+## Secondary data
+<p align="center">
+    <img src=" sec.png" alt="Figure 2" width="500"/>
+</p>
+
+**Figure 2:** Acoustic impedance.
+
 ## KDE Distributions
 
 <p align="center">
-    <img src="distributions_1.png" alt="Figure 2" width="500"/>
+    <img src="distributions_1.png" alt="Figure 3" width="500"/>
 </p>
 
-**Figure 2:** Modeled kernel distribution of acoustic impedance for each facies.
+**Figure 3:** Modeled kernel distribution of acoustic impedance for each facies.
+
+## Facies proportion maps
+
+<p align="center">
+    <img src=" proportion_facies.png" alt="Figure 4" width="500"/>
+</p>
+
+**Figure 4:** Facies proportion for each facies.
+
 
 ## Contact
 
